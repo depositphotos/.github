@@ -18,4 +18,4 @@ DepositPhotos provides commercially licensed AI training data, including multimo
 
 ---
 
-Explore multimodal datasets, technical documentation, and resources for AI/ML development. For custom dataset curation or enterprise licensing inquiries, contact the DepositPhotos team.# .github
+Explore multimodal datasets, technical documentation, and resources for AI/ML development. For custom dataset curation or enterprise licensing inquiries, contact the [DepositPhotos AI Sales Team](mailto:ai.sales@depositphotos.com).
