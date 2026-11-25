@@ -16,6 +16,15 @@ DepositPhotos provides commercially licensed AI training data, including multimo
 * **Data Preparation:** Embedded metadata and tags designed to minimize data preprocessing.
 * **Privacy:** AI training data sourced in compliance with global privacy regulations, including GDPR and CCPA standards.
 
+## Dataset Samples
+
+Free samples of DepositPhotos AI training datasets, each with images and a `metadata.csv`, to evaluate data quality and format before licensing. Explore the full catalog of [DepositPhotos AI training data](https://depositphotos.com/ai-training-data.html).
+
+| Dataset | Task | Files | GitHub | Hugging Face |
+|---|---|---|---|---|
+| Traffic | Object detection, image classification | 243 images + metadata.csv | coming soon | [Depositphotos/traffic](https://huggingface.co/datasets/Depositphotos/traffic) |
+| Biometric | Image classification, object detection | 509 images + metadata.csv | coming soon | [Depositphotos/biometric](https://huggingface.co/datasets/Depositphotos/biometric) |
+
 ---
 
 Explore multimodal datasets, technical documentation, and resources for AI/ML development. For custom dataset curation or enterprise licensing inquiries, contact the [DepositPhotos AI Sales Team](mailto:aidatasets@depositphotos.com).
